@@ -1,0 +1,16 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x004\x00P\x00o\x00s\x00t\x00g\x00r\x00e\x00C\x00o\x00n\x00n\x00e\x00c\x00t\x00i\x00o\x00n\x00I\x00n\x00t\x00a\x00r\x00f\x00a\x00c\x00e)
+
+[CMake]
+Build Directory Count=1
+CMakeDir=/usr/share/cmake-2.8/Modules
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/nikolay/projects/PostgreConnectionIntarface/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
