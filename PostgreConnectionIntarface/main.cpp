@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
 		{
 			pqxx::work action(conn);
 			action.exec("create table records (key varchar, data text)");
+			action.commit();
 			std::cerr << "table created" << std::endl;
 		}
 		catch(const std::exception &e)
